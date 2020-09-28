@@ -1,0 +1,20 @@
+.hover-dim:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.article-manager-tile {
+  height: 100%;
+}
+
+.hover-cursor:hover, .hover-cursor svg:hover {
+  cursor: pointer;
+}
+
+.no-copy {
+  user-select: none;
+}
+
+.activation-switch {
+  color: #14af00 !important;
+}
