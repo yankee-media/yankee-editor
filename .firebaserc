@@ -1,0 +1,21 @@
+{
+  "projects": {
+    "default": "yankee-finance"
+  },
+  "targets": {
+    "yankee-finance": {
+      "hosting": {
+        "editor": [
+          "yankee-finance-editor"
+        ]
+      }
+    },
+    "yankee-tech": {
+      "hosting": {
+        "editor": [
+          "yankee-tech-editor"
+        ]
+      }
+    }
+  }
+}
