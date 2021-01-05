@@ -16,7 +16,7 @@ import {
   VALID_URL_REGEX,
   ARTICLE_BODY_TYPES_MAP
 } from '../../util/constants';
-import { elementTypes } from 'yankee-blog';
+import { elementTypes } from 'yankee-article-parser';
 
 const Image = ({ basePath, removeFromList, content, onEditArticle, type, moveElementsInList, elementIndex, totalElements }) => {
   const [anchorEl, setAnchorEl] = useState(null);

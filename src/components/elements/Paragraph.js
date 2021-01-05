@@ -17,7 +17,7 @@ import {
   ARTICLE_BODY_TYPES_MAP,
   ALIGNMENT_OPTIONS
 } from '../../util/constants';
-import { elementTypes } from 'yankee-blog';
+import { elementTypes } from 'yankee-article-parser';
 
 const Paragraph = ({ basePath, removeFromList, withSpace, content, onEditArticle, moveElementsInList, elementIndex, totalElements, variant }) => {
   const [anchorEl, setAnchorEl] = useState(null);

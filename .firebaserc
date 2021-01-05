@@ -1,19 +1,19 @@
 {
   "projects": {
-    "default": "yankee-finance"
+    "default": "yankee-tech-app"
   },
   "targets": {
-    "yankee-finance": {
+    "yankee-finance-app": {
       "hosting": {
         "editor": [
-          "yankee-finance-editor"
+          "yankee-finance-app-editor"
         ]
       }
     },
-    "yankee-tech": {
+    "yankee-tech-app": {
       "hosting": {
         "editor": [
-          "yankee-tech-editor"
+          "yankee-tech-app-editor"
         ]
       }
     }

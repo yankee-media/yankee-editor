@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 // Util
 import { getEditableArticleElements } from '../util/body_parser';
 import { ARTICLE_BODY_TYPES_MAP, NEW_ELEMENT_MAP } from '../util/constants';
-import { elementTypes } from 'yankee-blog';
+import { elementTypes } from 'yankee-article-parser';
 
 // Icons
 import Add from '@material-ui/icons/Add';

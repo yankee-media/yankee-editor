@@ -11,7 +11,7 @@ import List from '../components/elements/List';
 import Header from '../components/elements/Header';
 
 // Util
-import { elementTypes } from 'yankee-blog';
+import { elementTypes } from 'yankee-article-parser';
 
 const editableElementMap = new Map([
   [elementTypes.PARAGRAPH_WITH_BOTTOM_SPACE, (basePath, content, elementIndex, onEditArticle, removeFromList, moveElementsInList, totalElements) => (

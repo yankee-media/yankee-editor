@@ -23,7 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 /.env*
-
 .env
 
 /manual_operations/node_modules
@@ -32,3 +31,4 @@ yarn-error.log*
 
 .firebase
 .vscode
+.idea

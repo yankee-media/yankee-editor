@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 // Util
-import { elementTypes } from 'yankee-blog';
+import { elementTypes } from 'yankee-article-parser';
 
 // UI Components
 import Typography from '@material-ui/core/Typography';

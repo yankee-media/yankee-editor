@@ -1,4 +1,4 @@
-import { elementTypes } from 'yankee-blog';
+import { elementTypes } from 'yankee-article-parser';
 
 export const SECONDARY_THEME_COLOR = '#fff';
 export const ERROR_COLOR = '#ff0000';
