@@ -55,7 +55,6 @@ if (process.env.REACT_APP_COMP === 'finance') {
   firebaseConfig = {
     apiKey: process.env.REACT_APP_FINANCE_FIREBASE_API_KEY,
     authDomain: process.env.REACT_APP_FINANCE_AUTH_DOMAIN,
-    databaseURL: process.env.REACT_APP_FINANCE_DATABASE_URL,
     projectId: process.env.REACT_APP_FINANCE_PROJECT_ID,
     storageBucket: process.env.REACT_APP_FINANCE_STORAGE_BUCKET,
     messagingSenderId: process.env.REACT_APP_FINANCE_MESSAGING_SENDER_ID,
@@ -66,7 +65,6 @@ if (process.env.REACT_APP_COMP === 'finance') {
   firebaseConfig = {
     apiKey: process.env.REACT_APP_TECH_FIREBASE_API_KEY,
     authDomain: process.env.REACT_APP_TECH_AUTH_DOMAIN,
-    databaseURL: process.env.REACT_APP_TECH_DATABASE_URL,
     projectId: process.env.REACT_APP_TECH_PROJECT_ID,
     storageBucket: process.env.REACT_APP_TECH_STORAGE_BUCKET,
     messagingSenderId: process.env.REACT_APP_TECH_MESSAGING_SENDER_ID,

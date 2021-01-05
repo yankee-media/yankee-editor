@@ -1,6 +1,6 @@
 import React from 'react';
 
-import ArticleParser from 'yankee-blog';
+import ArticleParser from 'yankee-article-parser';
 
 // UI Components
 import CircularProgress from '@material-ui/core/CircularProgress';
